@@ -5,8 +5,8 @@ As a master student in the last year of study, I am preparing for my PhD travel,
 All this code will run on Apple Macbook Air with M1 chip. The code are tested on an environment of conda torch-mps with python 3.9.21. 
 Librairies used: pytorch, numpy, matplotlib, etc.
 
-# First stage for learning pytorch
-1. Install pytorch and other libraries
-2. Create a simple neural network, such as a simple linear regression model
-3. Train the model on a dataset, to see what is going on in the model
-4. Understand the basic concepts of pytorch, such as layer, model, loss, optimizer, etc.
+# Goal
+As a student without the background in computer science, I suggest myself to focus on three key points:
+1. Understand the basic concepts of deep learning and neural networks.
+2. Know different types of neural networks and study stragegies.
+3. Various applications of transfer learning and fine-tuning.
